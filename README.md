@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+[![Netlify Status](https://api.netlify.com/api/v1/badges/33a22932-2a02-4133-9af7-bcd41852f069/deploy-status)](https://app.netlify.com/sites/amazing-gnizama/deploys)
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
@@ -13,4 +13,3 @@ This is the project you get when you run `gridsome create new-project`.
 2. `cd my-gridsome-site` to open the folder
 3. `gridsome develop` to start a local dev server at `http://localhost:8080`
 4. Happy coding 🎉🙌
-=======
