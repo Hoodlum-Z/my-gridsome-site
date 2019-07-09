@@ -6,7 +6,7 @@ excerpt: When you have wowzers in your trowsers they come out to play. True stor
 featured_post: false
 featured_image:
   alt: Jesus Malverde Narco Saint
-  src: "/images/uploads/Jesus-Malverde-Narco-Saint.jpg"
+  src: "/static/images/uploads/Jesus-Malverde-Narco-Saint.jpg"
   title: Jesus Malverde is Loved in Mexico
 tags:
   - Jesus  Malverde
@@ -17,4 +17,4 @@ Jesus Malverde is a Narco Saint. He is the biggest Saint in the whole of Mexico.
 
 I think he is the best ever. Even better than El Chapo, but some think Chapo is a Saint also. :)
 
-![El Chapo Guzman](/images/uploads/Joaquin-El-Chapo-Guzman-Loera.jpg "Joaquin El Chapo Guzman Loera")
+![El Chapo Guzman](/static/images/uploads/Joaquin-El-Chapo-Guzman-Loera.jpg "Joaquin El Chapo Guzman Loera")
