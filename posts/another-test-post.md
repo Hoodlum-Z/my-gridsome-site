@@ -6,7 +6,7 @@ excerpt: This test post is the best post! They are usually the best posts...
 featured_post: false
 featured_image:
   alt: My first alt text
-  src: "/uploads/5-Best-Supercar-Vloggers.jpg"
+  src: "/images/uploads/5-Best-Supercar-Vloggers.jpg"
   title: This is a Brand New Image
 tags:
   - Cars
@@ -15,6 +15,6 @@ tags:
 ---
 # Hello People!
 
-![Walter Rohrl Audi Quattro](/uploads/Walter-Rohrl-Rally-Legend.jpg "Walter driving like a lunatic!")
+![Walter Rohrl Audi Quattro](/images/uploads/Walter-Rohrl-Rally-Legend.jpg "Walter driving like a lunatic!")
 
 This is an update to my tester blog. Let's see how things are... This Gridsome and Netlify combo is totally amazing. Can't wait until I'm an expert at it.

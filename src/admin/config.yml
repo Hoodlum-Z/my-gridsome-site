@@ -2,7 +2,8 @@ backend:
   name: github
   repo: Hoodlum-Z/my-gridsome-site
 
-media_folder: "/uploads"
+media_folder: "/static/images/uploads"
+public_folder: "/images/uploads"
 
 publish_mode: "editorial_workflow"
 
